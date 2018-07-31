@@ -1,1 +1,1 @@
-*** Vanilla JavaScript Workshop
+### Vanilla JavaScript Workshop
